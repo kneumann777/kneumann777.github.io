@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #9c9679;
+    height: 100%;
+    font-family: Trebuchet MS, sans-serif;
+    width: 100%;
+
+}
+
+#winter {
+    margin: 0;
+    padding: 0;
+    background-color: #c6f7f7;
+
+}
+
+#fall {
+    background-color: #FFD700;
+}
+
+#summer {
+    background-color: #c1a2e0;
+}
+
+#spring {
+    background-color: #d7ffcf;
+}
+
+#wrap {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    clear: both;
+
+
+}
+
+h1 {
+    color: #dbd7c8;
+    font-size: 72px;
+    margin: 0;
+    text-align: center;
+
+}
+
+#winterh1 {
+    color: #a1a1a1;
+}
+
+#fallh1 {
+    color: #8c040b;
+}
+
+#summerh1 {
+    color: #f6edff;
+}
+
+#springh1 {
+    color: #ed53b2;
+}
+
+#springpic {
+    width: 60%;
+    height: 60%;
+    margin-left: 200px;
+}
+
+#summerpic {
+    width: 60%;
+    height: 60%;
+    margin-left: 200px;
+}
+
+#fallpic {
+    width: 60%;
+    height: 60%;
+    margin-left: 200px;
+
+}
+
+#winterpic {
+    width: 60%;
+    height: 60%;
+    margin-left: 225px;
+}
+
+#home {
+    width: 60%;
+    height: 60%;
+    margin-left: 200px;
+
+}
+
+
+#logo {
+    padding: 10px;
+    margin-bottom: -45%;
+    margin-top: -20%;
+
+}
+
+nav {
+    padding: 20px;
+    background-color: #856613;
+
+
+}
+
+#winternav {
+    background-color: #dae6e6;
+}
+
+#fallnav {
+    background-color: #e63819;
+}
+
+#summernav {
+    background-color: #62a15a;
+}
+
+#springnav {
+    background-color: #ed53b2;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin: 0 30px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+
+nav a:hover {
+    color: #e0cb92;
+    background-color: #dbd7c8;
+    padding: 20px 30px;
+}
+
+.wintera:hover {
+    color: aliceblue;
+    background-color: #7dd9f5;
+}
+
+.falla:hover {
+    color: #e61919;
+    background-color: #e6cb19;
+}
+
+.summera:hover {
+    color: #6b1e8a;
+    background-color: #f5f0f7;
+}
+
+.springa:hover {
+    color: #fa73c6;
+    background-color: #fcc0e5;
+}
+
+.welcome {
+    padding: 10px 15 px;
+    margin: 20px 0;
+    overflow: auto;
+}
+
+p {
+    font-size: 30px;
+
+}
+
+footer {
+    background-color: #856613;
+    text-align: center;
+    padding: 15px;
+    font-size: 10px;
+}
+
+#winterfooter {
+    background-color: #dae6e6;
+    font-size: 10px;
+}
+
+#fallfooter {
+    background-color: #e63819;
+}
+
+#summerfooter {
+    background-color: #62a15a;
+}
+
+#springfooter {
+    background-color: #ed53b2;
+}
