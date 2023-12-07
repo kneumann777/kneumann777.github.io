@@ -311,25 +311,10 @@ footer a {
     margin-left: 17%;
 }
 
-.embed {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
+#map {
+    margin-left: 25%;
 }
 
-.embed iframe,
-.embed object,
-.embed embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 70%;
-    height: 70%;
-    margin-left: 15%;
-
-}
 
 
 
